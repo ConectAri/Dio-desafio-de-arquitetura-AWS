@@ -7,7 +7,7 @@ Este repositório contém a documentação e a arquitetura de um pipeline automa
 
 O fluxo de dados foi desenhado utilizando a ferramenta Draw.io e segue a estrutura abaixo:
 
-![Diagrama da Arquitetura](Segundo_desenho.drawio.png) <!-- Substitua pelo nome do arquivo da imagem que você subir no GitHub -->
+![Diagrama da Arquitetura](Segundo_desenho.drawio.gif) <!-- Substitua pelo nome do arquivo da imagem que você subir no GitHub -->
 
 ### Fluxo de Funcionamento:
 1. **Origem:** Um operador ou sistema local interage com o **Sistema de Arquivos** para gerar um documento/dado.
